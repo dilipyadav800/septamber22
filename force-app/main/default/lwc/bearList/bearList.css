@@ -1,0 +1,8 @@
+.bear-Tile{
+    border: 1px solid chocolate;
+    border-radius: 0.25rem;
+    display: block;
+}
+.bear-img {
+    height: 100px;
+}
